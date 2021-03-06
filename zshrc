@@ -1,7 +1,7 @@
 export ZSH="/home/sugar/.oh-my-zsh"
 
 ZSH_THEME="robbyrussell"
-export EDITOR='neovim'
+export EDITOR='nvim'
 
 plugins=(
   git zsh-autosuggestions vi-mode colored-man-pages
